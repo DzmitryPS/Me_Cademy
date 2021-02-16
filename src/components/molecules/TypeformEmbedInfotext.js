@@ -9,7 +9,7 @@ const BoxAroundTypeform = styled.div`
   display: block;
   position: relative;
   background-color: lightgrey;
-  border: 1px solid black;
+  /* border: 1px solid black; */
   margin-bottom: 50px;
 `;
 
@@ -23,7 +23,7 @@ const TextBoxForm = styled.div`
     position: relative;
     background-color: "white";
     text-align: center;
-    border: 1px solid black;
+    /* border: 1px solid black; */
 `;
 
 const RegDivOnPage = styled.div`
