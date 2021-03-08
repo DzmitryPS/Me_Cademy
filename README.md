@@ -16,9 +16,9 @@
     </i>
     <br />
     <br />
-    <a href="">View Demo</a>
+    <a href="https://mecademy.netlify.app/">View Demo</a>
     ·
-    <a href="">Contact</a>   
+    <a href="https://github.com/DzmitryPS/Me_Cademy#who-are-we">Contact</a>   
 </p>
 </br>
 
