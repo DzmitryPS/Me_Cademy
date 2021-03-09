@@ -48,8 +48,10 @@ Thanks for the amazing collaboration Karin & Eliz!
 ## [:top:](#table-of-contents)
 
 ## :lock: Constraints
-- team of four people
-- 8 weeks until demo day
+- Team of 4 students 
+- 8 weeks until Demo Day 2021-03-12
+- Follow the Agile Manifesto
+- Build an React Application
 
 ## :rugby_football: Agile
 We are very happy to have worked according to the Agile Manifesto and followed the 12 principles:\
@@ -69,16 +71,17 @@ We are very happy to have worked according to the Agile Manifesto and followed t
 ## [:top:](#table-of-contents)
 
 ## :money_with_wings: Objectives
-- ...
-- ...
+- Master the first project with a client
+- Follow the Agile Manifesto
+- Learn more about React
+- Discover the advantages of Atomic Design
 
 ## [:top:](#table-of-contents)
 
 
 ## :wrench: Tools
-We used Jira as our main tool to assist in the project management and Confluence to store and access all the documentation being produced and Slack together with Google Meet as our platform for communication.
-
-Figma...
+We used **Jira** as our main tool to assist in the project management and **Confluence** to store and access all the documentation being produced and **Slack** together with Google Meet as our platform for communication.
+Our Wirframes we built on **Figma**.
 
 ## [:top:](#table-of-contents)
 
@@ -101,9 +104,9 @@ All texts and related information is stored inside a file called `textData.js`. 
 
 We decided to take this approach to be able to maintain and update the project in a simpler, easier, and faster way. For most changes that we may need to do in the future, we only need access and edit these two files instead of looking through the huge react architecture to find the correct positioning of the one line of code that needs to be changed.
 
-It took a bit of time to structure these files, but we believe it was worth it and it was a great learning opportunity.
+<!-- It took a bit of time to structure these files, but we believe it was worth it and it was a great learning opportunity.-->
 
-### Use case example
+### Use case example 
 
 1. The following object can be found inside [`textData.js`](.\src\data\textData.js) starting on line 63, and contains the value `Details` for the key `details`: 
 
@@ -145,7 +148,7 @@ It took a bit of time to structure these files, but we believe it was worth it a
 4. You can clearly see how the props `color="primary"` and `text={textData.shop.single.details}` come from `textData.js` and `theme.js`
 5. Now, if we ever want to change the color or the text displayed in this button, we only need to do a small change in a couple of lines of code. The change will be reflected in all instances of that button.
 
-## [:top:](#table-of-contents)
+## [:top:](#table-of-contents) 
 
 ## NPM Packages
 ...
