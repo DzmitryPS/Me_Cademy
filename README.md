@@ -28,8 +28,10 @@
 </br>
 
 # :thought_balloon: About the project
-## :seedling: Some history
-### Who are we?
+
+### About MeCademy
+
+### About us
 We are [Dzmitry](https://www.linkedin.com/in/dzmitryps/), [Viet](https://www.linkedin.com/in/viet-quoc-pham-2850581ba/), [Nadine](https://www.linkedin.com/in/nadinestrobel/) and [Carlos](https://www.linkedin.com/in/carlosaore/), four students of [Wild Code School](https://www.wildcodeschool.com/). At the moment these lines are being written, we are attending a ["Web developer"](https://www.wildcodeschool.com/en-GB/trainings/web-developer-full-time) Bootcamp that is 5 months long and is teaching us all the technical know-how and knowledge to develop interactive websites using HTML, CSS, JavaScript, so we can take a React and Node JS development project to completion.
 
 ### Why did we create this?
