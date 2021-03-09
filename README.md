@@ -41,7 +41,7 @@ to master the application period
 and to position as expert
 
 
-The 8 steps of the 8 weeks program:\
+The 8 steps of the 8 weeks program:
 
 Week 1: Get clear about your professional passion\
 Week 2: Draw a plan and define your dream job\
