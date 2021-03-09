@@ -49,12 +49,12 @@ and to position as expert
 
 The 8 steps of the 8 weeks program:
 
-Week 1: Get clear about your professional passion
-Week 2: Draw a plan and define your dream job
-Week 3: Create your CV that presents you at best
-Week 4: Write a cover letter to distinct from others
-Week 5: Learn the 3 most important facts and train your job interview
-Week 6: Get hints for your negotiation and train your salary negotiation
+Week 1: Get clear about your professional passion\
+Week 2: Draw a plan and define your dream job\
+Week 3: Create your CV that presents you at best\
+Week 4: Write a cover letter to distinct from others\
+Week 5: Learn the 3 most important facts and train your job interview\
+Week 6: Get hints for your negotiation and train your salary negotiation\
 Week 7&8: Position as expert with personal branding
 
 
