@@ -40,7 +40,9 @@ to find a dream job as well as an employer you’d really  love to work for,
 to master the application period
 and to position as expert
 
-The 8 steps of the 8 weeks program:
+
+The 8 steps of the 8 weeks program:\
+
 Week 1: Get clear about your professional passion\
 Week 2: Draw a plan and define your dream job\
 Week 3: Create your CV that presents you at best\
