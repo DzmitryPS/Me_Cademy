@@ -52,7 +52,7 @@ Thanks for the amazing collaboration Karin & Eliz!
 - 8 weeks until demo day
 
 ## :rugby_football: Agile
-We are very happy to have worked according to the Agile Manifesto and followed the 12 principles:
+We are very happy to have worked according to the Agile Manifesto and followed the 12 principles:\
 :martial_arts_uniform: Customer Satisfaction
 :martial_arts_uniform: Welcome Change
 :martial_arts_uniform: Deliver Frequently
