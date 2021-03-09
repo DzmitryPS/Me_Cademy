@@ -30,6 +30,33 @@
 # :thought_balloon::computer::chart_with_upwards_trend::pencil2: About the project
 
 ### About MeCademy
+MeCademy is an online academy that brings back female academics 
+to a career within 2 months. Since MeCademy is certified by the German 
+job center, female academics could get a voucher to join the 8 weeks 
+program for free. 
+
+On the MeCademy WebApp 
+you can get information about MeCademy, the program and the coaches,
+as well as read testimonials, register for the program via typeform and of course 
+get into contact by mail or social media.
+
+
+The program helps 
+to find a dream job as well as an employer you’d really  love to work for,
+to master the application period
+and to position as expert
+
+
+The 8 steps of the 8 weeks program:
+
+Week 1: Get clear about your professional passion
+Week 2: Draw a plan and define your dream job
+Week 3: Create your CV that presents you at best
+Week 4: Write a cover letter to distinct from others
+Week 5: Learn the 3 most important facts and train your job interview
+Week 6: Get hints for your negotiation and train your salary negotiation
+Week 7&8: Position as expert with personal branding
+
 
 ### About us :desktop_computer::earth_asia::australia::ru::el_salvador::de::raised_hands:	
 We are [Dzmitry](https://www.linkedin.com/in/dzmitryps/), [Viet](https://www.linkedin.com/in/viet-quoc-pham-2850581ba/), [Nadine](https://www.linkedin.com/in/nadinestrobel/) and [Carlos](https://www.linkedin.com/in/carlosaore/), four students of the [Wild Code School](https://www.wildcodeschool.com/) **remote** class from around the world who teamed up for this project.\
