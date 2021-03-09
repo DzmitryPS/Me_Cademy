@@ -151,7 +151,13 @@ We decided to take this approach to be able to maintain and update the project i
 ## [:top:](#table-of-contents) 
 
 ## NPM Packages
-...
+- React Router\
+- Styled Components\
+- Typeform\
+- Prerender-spa-plugin\
+- Helmet\
+- Carousel component "React Slick"
+
 
 ## [:top:](#table-of-contents)
 
