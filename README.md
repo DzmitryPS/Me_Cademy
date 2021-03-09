@@ -62,9 +62,9 @@ We are very happy to have worked according to the Agile Manifesto and followed t
 :martial_arts_uniform: Working Software\
 :martial_arts_uniform: Constant Pace\
 :martial_arts_uniform: Good Design\
-:martial_arts_uniform: Simplicity\\
+:martial_arts_uniform: Simplicity\
 :martial_arts_uniform: Self Organization\
-:martial_arts_uniform: Reflect and Adjust\
+:martial_arts_uniform: Reflect and Adjust
 
 ## [:top:](#table-of-contents)
 
