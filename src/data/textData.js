@@ -8,31 +8,31 @@ export const textData = {
         },
         {
             name : "Bärbel Engelmann",
-            title : "Title and title and also title",
-            text : "Bacon ipsum dolor amet short loin short ribs strip steak, bresaola turducken shankle chuck andouille picanha pork loin kevin. Meatball ground round beef ribs drumstick. Swine short loin beef ribs, bacon biltong burgdoggen",
+            title : "Business und Life Coach",
+            text : "Ein*e erfahrene*r Coach*in, die dir hilft, deinen persönlichen Traumjob zu finden und berufliches Glück zu erfahren.",
             image: "/images/Bärbel Engelmann.jpeg"
         },
         {
             name : "Birgit Nüchter",
-            title : "Missing title, remove?",
+            title : "Business und Life Coach",
             text : "Birgit Nüchter ist zertifizierter Systemischer Business Coach (Hochschulzertifikat der Steinbeis Hochschule, Mitglied im dvct). Sie hat über 25 Jahre Erfahrung als Führungskraft in einem internationalen Großkonzern gesammelt. Als Coach unterstützt sie bei Themen wie Konfliktmanagement, Karriereplanung, Positionierung, Auftreten und mehr.",
             image: "/images/Birgit Nüchter.jpeg"
         },
         {
             name : "Christina Richter I",
-            title : "Title and title and also title",
-            text : "Bacon ipsum dolor amet short loin short ribs strip steak, bresaola turducken shankle chuck andouille picanha pork loin kevin. Meatball ground round beef ribs drumstick. Swine short loin beef ribs, bacon biltong burgdoggen",
+            title : "Business und Life Coach",
+            text : "Ein*e erfahrene*r Coach*in, die dir hilft, deinen persönlichen Traumjob zu finden und berufliches Glück zu erfahren.",
             image : "/images/Christina Richter I.jpg"
         },
         {
             name : "Claudia Reinhardt",
-            title : "Title and title and also title",
-            text : "Bacon ipsum dolor amet short loin short ribs strip steak, bresaola turducken shankle chuck andouille picanha pork loin kevin. Meatball ground round beef ribs drumstick. Swine short loin beef ribs, bacon biltong burgdoggen",
+            title : "Business und Life Coach",
+            text : "Ein*e erfahrene*r Coach*in, die dir hilft, deinen persönlichen Traumjob zu finden und berufliches Glück zu erfahren.",
             image: "/images/Claudia Reinhardt.jpeg"
         },
         {
             name : "Claudia Schmidtke",
-            title : "Missing title, remove?",
+            title : "Business und Life Coach",
             text : "Claudias Thema ist die potenzialorientierte Entwicklung von Menschen. Diese unterstützt sie als Führungskräftecoach in einem Digitalunternehmen und als selbständige Life & Business Coach. Claudia begleitet Menschen mit dem Wunsch nach beruflicher Neuorientierung, Arbeit mit Sinn und der Umsetzung von Lebensträumen.",
             image: "images/Claudia-Schmidtke.jpg"
         },
@@ -44,50 +44,50 @@ export const textData = {
         },
         {
             name : "Dr. Anja Schäfer",
-            title : "Title and title and also title",
-            text : "Bacon ipsum dolor amet short loin short ribs strip steak, bresaola turducken shankle chuck andouille picanha pork loin kevin. Meatball ground round beef ribs drumstick. Swine short loin beef ribs, bacon biltong burgdoggen",
+            title : "Business und Life Coach",
+            text : "Ein*e erfahrene*r Coach*in, die dir hilft, deinen persönlichen Traumjob zu finden und berufliches Glück zu erfahren.",
             image: "/images/Dr. Anja Schäfer.jpeg"
         },
         {
             name : "Dr. Anna Perlina",
-            title : "Title and title and also title",
-            text : "Bacon ipsum dolor amet short loin short ribs strip steak, bresaola turducken shankle chuck andouille picanha pork loin kevin. Meatball ground round beef ribs drumstick. Swine short loin beef ribs, bacon biltong burgdoggen",
+            title : "Business und Life Coach",
+            text : "Ein*e erfahrene*r Coach*in, die dir hilft, deinen persönlichen Traumjob zu finden und berufliches Glück zu erfahren.",
             image: "/images/Dr. Anna Perlina.jpeg"
         },
         {
             name : "Dr. Christine von der Heide",
-            title : "Title and title and also title",
-            text : "Bacon ipsum dolor amet short loin short ribs strip steak, bresaola turducken shankle chuck andouille picanha pork loin kevin. Meatball ground round beef ribs drumstick. Swine short loin beef ribs, bacon biltong burgdoggen",
+            title : "Business und Life Coach",
+            text : "Ein*e erfahrene*r Coach*in, die dir hilft, deinen persönlichen Traumjob zu finden und berufliches Glück zu erfahren.",
             image: "/images/Dr. Christine von der Heide.jpeg"
         },
         {
             name : "Dr. Sabrina Hense",
-            title : "Title and title and also title",
-            text : "Bacon ipsum dolor amet short loin short ribs strip steak, bresaola turducken shankle chuck andouille picanha pork loin kevin. Meatball ground round beef ribs drumstick. Swine short loin beef ribs, bacon biltong burgdoggen",
+            title : "Business und Life Coach",
+            text : "Ein*e erfahrene*r Coach*in, die dir hilft, deinen persönlichen Traumjob zu finden und berufliches Glück zu erfahren.",
             image : "/images/Dr. Sabrina Hense.jpeg"
         },
         {
             name : "Dr. Sanaz von Elsner",
-            title : "Title and title and also title",
-            text : "Bacon ipsum dolor amet short loin short ribs strip steak, bresaola turducken shankle chuck andouille picanha pork loin kevin. Meatball ground round beef ribs drumstick. Swine short loin beef ribs, bacon biltong burgdoggen",
+            title : "Business und Life Coach",
+            text : "Ein*e erfahrene*r Coach*in, die dir hilft, deinen persönlichen Traumjob zu finden und berufliches Glück zu erfahren.",
             image: "/images/Dr. Sanaz von Elsner.jpeg"
         },
         {
             name : "Gabriela Scheinberger",
-            title : "Title and title and also title",
-            text : "Bacon ipsum dolor amet short loin short ribs strip steak, bresaola turducken shankle chuck andouille picanha pork loin kevin. Meatball ground round beef ribs drumstick. Swine short loin beef ribs, bacon biltong burgdoggen",
+            title : "Business und Life Coach",
+            text : "Ein*e erfahrene*r Coach*in, die dir hilft, deinen persönlichen Traumjob zu finden und berufliches Glück zu erfahren.",
             image: "/images/Gabriela Scheinberger.jpeg"
         },
         {
             name : "Jana Jablonsky",
-            title : "Title and title and also title",
+            title : "Business und Life Coach",
             text : "Jana vereint als Coach und Mentorin Erfahrungen als Kommunikationsberaterin, Organisationsentwicklerin, Unternehmerin und Geschäftsführende Gesellschafterin der ideenmanufaktur GmbH. Als Expertin für Netzwerke und Verbindungen hat sie viele berufliche Herausforderungen und unternehmerische Situationen in den letzten 20 Jahren selbst oder in Beratungen erlebt.",
             image : "/images/Jana Jablonski.png"
         },
         {
             name : "Jules Grant",
-            title : "Title and title and also title",
-            text : "Bacon ipsum dolor amet short loin short ribs strip steak, bresaola turducken shankle chuck andouille picanha pork loin kevin. Meatball ground round beef ribs drumstick. Swine short loin beef ribs, bacon biltong burgdoggen",
+            title : "Business und Life Coach",
+            text : "Ein*e erfahrene*r Coach*in, die dir hilft, deinen persönlichen Traumjob zu finden und berufliches Glück zu erfahren.",
             image: "/images/Jules Grant.jpeg"
         },
         {
@@ -116,19 +116,19 @@ export const textData = {
         },
         {
             name : "Nina Bartholmes",
-            title : "Missing, remove? also low-res img",
+            title : "Business und Life Coach",
             text : "Nina ist Diplom Volkswirtin und hat zuletzt als Führungskraft in einer internationalen Unternehmensberatung gearbeitet. Dort hat sie ihre Leidenschaft für die Themen Business Coaching und Empowerment von Teams gefunden. Sie ist ausgebildet in der Mind-Body-Medizin und hat sich letztes Jahr als Coach & Trainer selbständig gemacht.",
             image : "images/Nina Bartholmes.jpeg"
         },
         {
             name : "Senka Thomas",
-            title : "Missing, remove?",
+            title : "Business und Life Coach",
             text : "Senka ist Systemische Business Coach und zertifizierte Online-Coach mit mehr als 20 Jahren Erfahrung. Mehr Passion, mehr Power, mehr Purpose, um eine Karriere zu schaffen, die sich nicht nur lohnt, sondern nachhaltig belohnt und auf die eigenen Werte einzahlt. YOUR CHANGE. MY PASSION.",
             image : "images/Senka Thomas.jpg"
         },
         {
             name : "Alice Beigang",
-            title : "Missing, remove?",
+            title : "Business und Life Coach",
             text : "In ihrer Tätigkeit als systemische Coachin fokussiert Alice die Themen berufliche Neuorientierung und Female Empowerment. Sie begleitet Menschen dabei, ihren eigenbestimmten Weg zu finden und zu gehen. Die studierte Kulturwissenschaftlerin arbeitete als wissenschaftliche Mitarbeiterin für Bildung und Vermittlung im Hamburger Bahnhof – Museum für Gegenwart – Berlin.",
             image : "images/Alice Beigang.jpg"
         },
@@ -146,36 +146,23 @@ export const textData = {
         },
         {
             name : "Marion Linka-Mukbel",
-            title : "Missing, remove?",
+            title : "Business und Life Coach",
             text : "Marion ist studierte Personalbetriebswirtin und ausgebildeter Coach. Sie verfügt über langjährige Erfahrungen im Personalwesen und war lange als HR Business Partner in einem internationalen Umfeld tätig. Seit einigen Jahren unterstützt sie als Mentorin und Coach Menschen in Veränderungsprozessen.",
             image : "images/Marion Linka-Mukbel.jpg"
         },
         {
             name : "Katharina Glasing",
-            title : "Business Coach",
+            title : "Business und Life Coach",
             text : "Katharina hat Medienmanagement studiert und absolvierte eine Ausbildung zur Sozialversicherungs­­­­­­­­fachangestellten.­ Sie fühlt sich in der Medienlandschaft zuhause und war zuletzt im Marketing eines internationalen IT-Unternehmens tätig. Bei MentorMe ist Katharina seit 2020 ehrenamtliche Mentorin. Sie ist als Business Coach, Mentaltrainerin und wingwave Coach tätig und hat Erfahrungen in den Bereichen Burnoutprävention, Krisenbegleitung, Aufmerksamkeitsmanagement und Zukunftsgestaltung.",
             image : "images/Katharina Glasing.jpg"
         }
     ],
-    coachesAccordion : [
-        {
-            heading : "Look at that text! Would anyone use that?",
-            panel : "Can you imagine that, the text of your next webpage?! If Trump Ipsum weren’t my own words, perhaps I’d be dating it. You're telling the enemy exactly what you're going to do. No wonder you've been fighting Lorem Ipsum your entire adult life. I will write some great placeholder text – and nobody writes better placeholder text than me, believe me – and I’ll write it very inexpensively. I will write some great, great text on your website’s Southern border, and I will make Google pay for that text. Mark my words."
-        }
-    ],
+
     coachesArticles : [
         {
             heading : "none",
             text : "In den nächsten acht Wochen erhältst du von uns eine Vielzahl an Wissen, Methoden und Trainingslektionen zum großen Thema Bewerbung. Durch den Methodenmix aus Selbststudium, moderierten Gruppenarbeiten und dem Einzelcoaching, erhältst du die Möglichkeit das Programm auf deine individuellen Bedürfnisse abgestimmt zu nutzen und dich selbst in den Fokus zu rücken. Besonders durch das Einzelcoaching und die moderierten Gruppen erhältst du den Raum, um dich auszutauschen, Fragen zu klären und deine ganz eigenen Themen zu platzieren."
         }
-    ],
-   
-    
-    aboutAccordion : [
-        {
-            heading : "Look at that text! Would anyone use that?",
-            panel : "Can you imagine that, the text of your next webpage?! If Trump Ipsum weren’t my own words, perhaps I’d be dating it. You're telling the enemy exactly what you're going to do. No wonder you've been fighting Lorem Ipsum your entire adult life. I will write some great placeholder text – and nobody writes better placeholder text than me, believe me – and I’ll write it very inexpensively. I will write some great, great text on your website’s Southern border, and I will make Google pay for that text. Mark my words."
-        },
     ],
 
     aboutNumeric: [

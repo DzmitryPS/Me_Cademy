@@ -16,16 +16,35 @@ const StyledRegForm = styled.div `
     }
 `;
 
-const GotoRegButton = styled.div`
-    height: 2.4em;
+const GotoRegButton = styled.button`
+    height: 2em;
     background: ${props => props.theme.colors.meCademySalmon};
     border-radius: 5px;
     border: none;
     width: 65%;
     margin: 0 auto 0 auto;
     color: white;
-    font-size: 1.5em;
-    line-height: 2.4em;
+    font-size: 1.2em;
+    line-height: 2em;
+    box-shadow: 0 1px 1px grey;
+    -o-box-shadow: 0 1px 1px grey;
+    -webkit-box-shadow: 0 1px 1px grey;
+    -moz-box-shadow: 0 1px 1px grey;
+    opacity: 0.8;
+    transition: 0.3s;
+    cursor: pointer;
+
+    :focus {
+        outline: none;
+    }
+
+    :hover {
+        opacity: 1;
+    }
+    
+    :active {
+        transform: translateY(2px);
+    }
 `
 
 export { StyledRegForm, GotoRegButton };
