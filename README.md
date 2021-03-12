@@ -58,7 +58,7 @@ The MeCademy WebApp allows people to get information about MeCademy, learn about
 as well as read testimonials, register for the program via typeform and of course 
 get into contact by mail or social media.
 
-### About us :desktop_computer::earth_asia::australia::ru::el_salvador::de::raised_hands:	
+### About us :desktop_computer::earth_asia::australia::ru::spain::de::raised_hands:	
 We are [Dzmitry](https://www.linkedin.com/in/dzmitryps/), [Viet](https://www.linkedin.com/in/viet-quoc-pham-2850581ba/), [Nadine](https://www.linkedin.com/in/nadinestrobel/) and [Carlos](https://www.linkedin.com/in/carlosaore/), four students of the [Wild Code School](https://www.wildcodeschool.com/) **remote** class from around the world who teamed up for this project.\
 At the moment these lines are being written, we are attending a ["Web developer"](https://www.wildcodeschool.com/en-GB/trainings/web-developer-full-time) Bootcamp that is 5 months long and is teaching us all the technical know-how and knowledge to develop interactive websites using HTML, CSS, JavaScript, so we can take a React and Node JS development project to completion.
 
@@ -76,10 +76,14 @@ Thanks for the amazing collaboration Karin & Eliz!
 ## [:top:](#table-of-contents)
 
 ## :lock: Constraints
-- Team of 4 students 
+- Developer team of 4 students
 - 8 weeks until Demo Day 2021-03-12
 - Follow the Agile Manifesto
 - Build an React Application
+- Implement Typeform
+- Have a Corporate Design
+- Build the page on the companys page
+
 
 ## :rugby_football: Agile
 We are very happy to have worked according to the Agile Manifesto and followed the 12 principles:\
