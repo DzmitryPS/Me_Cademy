@@ -22,10 +22,6 @@
 </p>
 </br>
 
-# Table of Contents
-
-</br>
-
 # :thought_balloon::computer::chart_with_upwards_trend::pencil2: About the project
 
 ### About MeCademy
