@@ -204,7 +204,7 @@ export const textData = {
 
     aboutHeroImg: "/images/picBoxAboveTypeform.png",
     aboutQuote : "„Über die MeCademy“",
-    aboutSubTitle : "No subtitle?",
+    aboutSubTitle :  "„Starte mit der MeCademy durch und erreiche deine Ziele!“",
 
     programmHeroImg : "images/frau-vor-fuchsia-sofa.jpg",
     programmQuote : "„Unser Programm“",
